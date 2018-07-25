@@ -1,0 +1,11 @@
+.block {
+  border: 1px solid red;
+  width: 300px; }
+
+.block__header {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid red; }
+
+.block__content {
+  padding: 20px; }
